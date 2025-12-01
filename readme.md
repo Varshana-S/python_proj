@@ -33,9 +33,6 @@ student = {
 4. Run the program using the terminal:
 
 ## Output
-
-## Reference Output
-
 ![Student Record Management System Output](/output.png)
 
 ## Github Link
